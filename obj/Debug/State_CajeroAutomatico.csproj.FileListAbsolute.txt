@@ -1,0 +1,7 @@
+C:\Users\pablo\Documents\Visual Studio 2017\Projects\State_CajeroAutomatico\State_CajeroAutomatico\bin\Debug\State_CajeroAutomatico.exe.config
+C:\Users\pablo\Documents\Visual Studio 2017\Projects\State_CajeroAutomatico\State_CajeroAutomatico\bin\Debug\State_CajeroAutomatico.exe
+C:\Users\pablo\Documents\Visual Studio 2017\Projects\State_CajeroAutomatico\State_CajeroAutomatico\bin\Debug\State_CajeroAutomatico.pdb
+C:\Users\pablo\Documents\Visual Studio 2017\Projects\State_CajeroAutomatico\State_CajeroAutomatico\obj\Debug\State_CajeroAutomatico.csprojAssemblyReference.cache
+C:\Users\pablo\Documents\Visual Studio 2017\Projects\State_CajeroAutomatico\State_CajeroAutomatico\obj\Debug\State_CajeroAutomatico.csproj.CoreCompileInputs.cache
+C:\Users\pablo\Documents\Visual Studio 2017\Projects\State_CajeroAutomatico\State_CajeroAutomatico\obj\Debug\State_CajeroAutomatico.exe
+C:\Users\pablo\Documents\Visual Studio 2017\Projects\State_CajeroAutomatico\State_CajeroAutomatico\obj\Debug\State_CajeroAutomatico.pdb
